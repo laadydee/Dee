@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+@media (max-width:767px) {
+    .nav2, .search-div, .cate{
+        display: none !important;
+        }
+        .head-btn{
+            flex-direction: column;
+        }
+        .btnn{
+            
+        }
+}

@@ -14,4 +14,12 @@
         .btnn{
             
         }
+        .full-screen {
+            position: absolute;
+            top: 8%;
+            left: 0 !important;
+            height: 100vh !important;
+            z-index: 1050;
+            overflow-y: auto; 
+            background-color: white;}
 }
